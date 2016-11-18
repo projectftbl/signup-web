@@ -1,3 +1,3 @@
-### @ftbl/signup-web
+### @recipher/signup-web
 
 Signup web components.

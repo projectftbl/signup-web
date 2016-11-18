@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/signup-web",
+  "name": "@recipher/signup-web",
   "version": "1.0.0",
   "description": "React signup components",
   "main": "dist/index",
@@ -16,15 +16,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/signup-web.git"
+    "url": "git@github.com:recipher/signup-web.git"
   },
   "dependencies": {
-    "@ftbl/component": "^1.1.1",
-    "@ftbl/form": "^1.4.8",
-    "@ftbl/icons": "^1.2.6",
-    "@ftbl/resource": "^1.0.4",
-    "@ftbl/support": "^1.0.1",
-    "@ftbl/validation": "^1.0.0",
+    "@recipher/component": "^1.1.1",
+    "@recipher/form": "^1.4.8",
+    "@recipher/icons": "^1.2.6",
+    "@recipher/resource": "^1.0.4",
+    "@recipher/support": "^1.0.1",
+    "@recipher/validation": "^1.0.0",
     "color": "^0.11.1",
     "frieze": "^1.2.1",
     "lodash": "^3.10.1",
